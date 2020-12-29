@@ -1,1 +1,1 @@
-# FightEye Releases
+# Spectrum Release Channel
